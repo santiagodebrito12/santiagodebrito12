@@ -3,7 +3,7 @@
 
 
 
-Tecnologia:
+Tecnologias:
 
 -HTML 
 
