@@ -3,30 +3,30 @@
 
 
 
-                                                                            Tecnologias:
+                                                                       Tecnologias:
   
-                                                                               -HTML 
+                                                                        -HTML 
 
-                                                                               -CSS
+                                                                        -CSS
 
-                                                                               -Javascript
+                                                                        -Javascript
   
-                                                                               -Sass
+                                                                        -Sass
 
-                                                                               -Git/Github
+                                                                        -Git/Github
 
-                                                                               -Bootstrap
+                                                                        -Bootstrap
 
-                                                                               -Tailwind
-
-
+                                                                        -Tailwind
 
 
-                                                                          Capacitandome en:
 
 
-                                                                              -React JS
-                                                                             -React Native
+                                                                     Capacitandome en:
+
+
+                                                                       -React JS
+                                                                       -React Native
 
 
 <!---
