@@ -1,5 +1,5 @@
-                                                                        Santiago de Brito
-                                                                    Desarrollador Web Frontend Jr 
+                                                                    Santiago de Brito
+                                                               Desarrollador Web Frontend Jr 
 
 
 
