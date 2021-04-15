@@ -1,32 +1,32 @@
-               Santiago de Brito
-            Desarrollador Web Frontend Jr
+                                                                        Santiago de Brito
+                                                                    Desarrollador Web Frontend Jr 
 
 
 
-                  Tecnologias:
+                                                                            Tecnologias:
+  
+                                                                               -HTML 
 
-                     -HTML 
+                                                                               -CSS
 
-                     -CSS
+                                                                               -Javascript
+  
+                                                                               -Sass
 
-                     -Javascript
+                                                                               -Git/Github
 
-                     -Sass
+                                                                               -Bootstrap
 
-                     -Git/Github
-
-                     -Bootstrap
-
-                     -Tailwind
-
-
+                                                                               -Tailwind
 
 
-                  Capacitandome en:
 
 
-                     -React JS
-                     -React Native
+                                                                          Capacitandome en:
+
+
+                                                                              -React JS
+                                                                             -React Native
 
 
 <!---
