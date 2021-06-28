@@ -1,5 +1,5 @@
                                                                     Santiago de Brito
-                                                               Desarrollador Web Frontend Jr 
+                                                                     React Developer
 
 
 
@@ -15,18 +15,15 @@
 
                                                                         -Git/Github
 
-                                                                        -Bootstrap
+                                                                        -React JS
+                                                                        
+                                                                        -Node Js
+                                                                        
+                                                                        -Mongo db
+                                                                        
+                                                                        -FireBase
 
-                                                                        -Tailwind
-
-
-
-
-                                                                     Capacitandome en:
-
-
-                                                                       -React JS
-                                                                       -React Native
+                                                                  
 
 
 <!---
