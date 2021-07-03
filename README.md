@@ -1,30 +1,20 @@
-                                                                    Santiago de Brito
-                                                                     React Developer
+# Hi! 👋🏼 I'm Santiago de Brito, Frontend Developer from Argentina
 
+##Tecnologias:
+ -HTML 
+ -CSS
+ -Javascript
+ -React JS
+ -Node Js
+ -Mongo db
+ -FireBase
+ -Sass
+ -Git/Github
 
-
-                                                                       Tecnologias:
-  
-                                                                        -HTML 
-
-                                                                        -CSS
-
-                                                                        -Javascript
-  
-                                                                        -Sass
-
-                                                                        -Git/Github
-
-                                                                        -React JS
-                                                                        
-                                                                        -Node Js
-                                                                        
-                                                                        -Mongo db
-                                                                        
-                                                                        -FireBase
-
-                                                                  
-
+##Hobbies:
+:ocean:Surf
+:snowflake:Ski                                                                  
+:soccer:Futbol
 
 <!---
 santiagodebrito12/santiagodebrito12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
