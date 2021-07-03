@@ -1,19 +1,31 @@
 # Hi! 👋🏼 I'm Santiago de Brito, Frontend Developer from Argentina
 
-##Tecnologias:
- -HTML 
- -CSS
- -Javascript
- -React JS
- -Node Js
- -Mongo db
- -FireBase
- -Sass
- -Git/Github
+## Tecnologias:
 
-##Hobbies:
+-HTML 
+
+-CSS
+
+-Javascript
+
+-React JS
+
+-Node Js
+
+-Mongo db
+
+-FireBase
+
+-Sass
+
+-Git/Github
+
+## Hobbies:
+
 :ocean:Surf
+
 :snowflake:Ski                                                                  
+
 :soccer:Futbol
 
 <!---
