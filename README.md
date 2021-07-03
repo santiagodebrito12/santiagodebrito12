@@ -2,23 +2,23 @@
 
 ## Tecnologias:
 
--HTML 
+:computer: HTML 
 
--CSS
+:computer: CSS
 
--Javascript
+:computer: Javascript
 
--React JS
+:computer: React JS
 
--Node Js
+:computer: Node Js
 
--Mongo db
+:computer: Mongo db
 
--FireBase
+:computer: FireBase
 
--Sass
+:computer: Sass
 
--Git/Github
+ :computer: Git/Github
 
 ## Hobbies:
 
