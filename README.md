@@ -8,6 +8,8 @@
 
 :computer: Javascript
 
+:computer: TypeScript
+
 :computer: React JS
 
 :computer: Next JS
