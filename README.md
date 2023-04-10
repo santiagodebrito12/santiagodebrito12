@@ -10,6 +10,8 @@
 
 :computer: React JS
 
+:computer: Next JS
+
 :computer: Node Js
 
 :computer: Mongo db
@@ -19,14 +21,6 @@
 :computer: Sass
 
  :computer: Git/Github
-
-## Hobbies:
-
-:ocean:Surf
-
-:snowflake:Ski                                                                  
-
-:soccer:Futbol
 
 <!---
 santiagodebrito12/santiagodebrito12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
